@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "gender": "Male",
+    "name": "Najmul Hossain",
+    "contact": "01985912278",
+    "address": "Gazipur",
+    "photoUrl": "https://i.ibb.co/QjCjnyp/SYM-JPG.png"
+  },
+  {
+    "id": 2,
+    "gender": "Female",
+    "name": "Humaira Kamal Hira",
+    "contact": "01705258436",
+    "address": "Kapasia",
+    "photoUrl": "https://i.ibb.co/QjCjnyp/SYM-JPG.png"
+  },
+  {
+    "id": 3,
+    "gender": "Male",
+    "name": "Junayet Hossain",
+    "contact": "01626873695",
+    "address": "Targaon",
+    "photoUrl": "https://i.ibb.co/QjCjnyp/SYM-JPG.png"
+  }
+]
